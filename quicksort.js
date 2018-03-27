@@ -1,4 +1,4 @@
-/* Worst-case time complexity-O(n^2) if the partition is very badly done by the randomized number
+/* Worst-case time complexity-O(n^2) if the partition is very badly done by the randomized variable
 and the Best case will be O(n log n)
 Most discussions about sorting algorithms tend to end up discussing quicksort because of its speed. 
 Formal computer science programs also tend to cover quicksort1 last because of its excellent average complexity 
